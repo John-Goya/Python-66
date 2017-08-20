@@ -1,7 +1,7 @@
 #   John Goya
 #
 #   For Python Drill #66 - Database Functionality for File Transfer with Python 3.4 & idle.
-#   Final fixed
+#   Final initial database issue fixed.
 
 import os
 import time
